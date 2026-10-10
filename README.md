@@ -1,11 +1,8 @@
 # 🌟 ¡Hola! Soy Fabrizio Del Vecchio
 
-## 💻 Desarrollador en Formación | Enfocado en Full-Stack (JS/Node.js y Python)
+## 💻 Software Developer | Full-Stack, Java & Salesforce Ecosystem
 
-Soy un desarrollador con una sólida base en programación y lenguajes web. Me apasiona construir soluciones eficientes, desde la interfaz de usuario hasta el *backend*. 
-
-
-Actualmente estoy buscando mi primera oportunidad laboral para aplicar y expandir mis conocimientos técnicos en un entorno profesional.
+Soy un desarrollador en constante evolución, estudiante de 4to año de Ingeniería en Informática en la UNLaM. Me apasiona construir soluciones eficientes, desde la arquitectura y el backend hasta la experiencia del usuario. Actualmente me desempeño en el ecosistema Salesforce combinando tareas de administración y desarrollo, y busco seguir expandiendo mis habilidades técnicas en entornos profesionales desafiantes.
 
 ---
 
@@ -15,10 +12,10 @@ Actualmente estoy buscando mi primera oportunidad laboral para aplicar y expandi
 | :--- | :--- | :--- |
 | **Lenguajes Core** | **JavaScript**, **Python**, **C** | Semi-Junior |
 | **Frontend Web** | HTML5, CSS3, Flexbox/Grid | Semi-Junior |
-| **Backend** | **Node.js** (y bases para la creación de APIs) | Junior |
+| **Ecosistema Salesforce** | SOQL/SOSL, Triggers, Administración de base de datos, Soporte técnico.| Semi-Junior |
+| **Backend & APIs** | Node.js (Express), Integración y Testing de APIs (Postman), Arquitectura y Patrones de Diseño (GoF, GRASP).| Semi-Junior |
 | **Herramientas** | Git (control de versiones) | Junior |
-
-* **Enfoque de Estudio:** Estoy profundizando en **Express.js** y **bases de datos** para robustecer mis habilidades *full-stack*.
+| **Infraestructura & Herramientas** |: Docker, Linux, WSL, Git, VS Code.| Semi-Junior |
 
 ---
 
@@ -28,6 +25,7 @@ Estos proyectos demuestran mi capacidad para aplicar algoritmos, manejar datos y
 
 | Proyecto | Tecnologías Clave | Enlace al Repositorio | Enlace de Demostración |
 | :--- | :--- | :--- | :--- |
+| **Gestión de turnos** |  | [Repositorio]() |
 | **API de Fútbol Argentino** | **Node.js**, **JavaScript**, API-SPORTS | [Repositorio](https://github.com/fabrid022-cmyk/API-Futbol-argentino) | [Demo Pública](https://fabrid022-cmyk.github.io/API-Futbol-argentino/futbol.html) |
 | **Buscamina** | **Lenguaje C**, Lógica de Algoritmos | [Repositorio](https://github.com/fabrid022-cmyk/Buscamina) | N/A |
 | **File Selection Sort** | **C/Python**, Algoritmos de Ordenamiento (Archivo) | [Repositorio](https://github.com/fabrid022-cmyk/File-Selection-Sort) | N/A |
